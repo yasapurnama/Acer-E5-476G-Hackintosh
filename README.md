@@ -30,6 +30,8 @@
 - \*Fix ComboJack Noise (Manual Install binary needed) [https://github.com/hackintosh-stuff/ComboJack.git](https://github.com/hackintosh-stuff/ComboJack.git)
 - Fix FN+Arrows Brightness Hotkey 
 - \*Generate SMBIOS (Manual Generate Uniqie SMBIOS) [https://github.com/corpnewt/GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+- Optimize Power Management [https://dortania.github.io/OpenCore-Post-Install/universal/pm.html](https://dortania.github.io/OpenCore-Post-Install/universal/pm.html)
+- Fix Instant Wake (Sleep->Wake Looping) [https://dortania.github.io/OpenCore-Post-Install/usb/misc/instant-wake.html](https://dortania.github.io/OpenCore-Post-Install/usb/misc/instant-wake.html)
 
 ## Working
 
